@@ -23,8 +23,8 @@ Support:
 If you need help, feel free to contact me...
 my discord is: samuel64 # 5943
 
-
-=>1<=You need: es_extended => https://github.com/esx-framework/es_extended 
-=>2<=You need: esx_society => https://github.com/FXServer-ESX/fxserver-esx_society 
-=>3<=You need: esx_billing => https://github.com/FXServer-ESX/fxserver-esx_billing 
-=>4<=You need: esx_service => https://github.com/FXServer-ESX/fxserver-esx_service 
+ 
+=>1<=You need: es_extended => https://github.com/esx-framework/es_extended                                                                                                         
+=>2<=You need: esx_society => https://github.com/FXServer-ESX/fxserver-esx_society                                                                                                 
+=>3<=You need: esx_billing => https://github.com/FXServer-ESX/fxserver-esx_billing                                                                                                 
+=>4<=You need: esx_service => https://github.com/FXServer-ESX/fxserver-esx_service                                                                                                 
