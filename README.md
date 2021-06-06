@@ -21,7 +21,7 @@ Join your server, and you have your own job
 Support:
 
 If you need help, feel free to contact me...
-my discord is: samuel64 # 5943
+my discord is: samuel64#5943
 
  
 =>1<=You need: es_extended => https://github.com/esx-framework/es_extended                                                                                                         
