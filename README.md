@@ -28,3 +28,6 @@ my discord is: samuel64#5943
 =>2<=You need: esx_society => https://github.com/FXServer-ESX/fxserver-esx_society                                                                                                 
 =>3<=You need: esx_billing => https://github.com/FXServer-ESX/fxserver-esx_billing                                                                                                 
 =>4<=You need: esx_service => https://github.com/FXServer-ESX/fxserver-esx_service                                                                                                 
+
+
+Preview: https://www.youtube.com/watch?v=eRY8tJzYQaQ
