@@ -1,5 +1,5 @@
 # esx_brewery
-Zhis joba was made by: matuseksamuel => (Brewery Job)
+This job was made by: matuseksamuel => (Brewery Job)
 
 You cant resend this without my knowing
 
