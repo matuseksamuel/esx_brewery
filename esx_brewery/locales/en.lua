@@ -1,0 +1,46 @@
+-----------------------------------------
+--Made by samuel64#5943 from original: https://github.com/xSenSi/esx_vigneronjob
+-----------------------------------------
+Locales['en'] = {
+  -- General
+  ['cloakroom'] = 'cloakRoom',
+  ['brewery_clothes_civil'] = 'civil outfit',
+  ['brewery_clothes_brewery'] = 'brewery outfit',
+  ['veh_menu'] = 'garage',
+  ['not_enough_place'] = 'you don\' have enought place',
+  ['sale_in_prog'] = 'sell in progress...',
+  ['van'] = 'work Truck',
+  ['open_menu'] = 'Open Menu',
+  ['spawn_veh'] = 'press ~INPUT_CONTEXT~ to spawn a vehicle',
+  ['amount_invalid'] = 'amount invalid',
+  ['press_to_open'] = 'press ~INPUT_CONTEXT~ to access the menu',
+  ['billing'] = 'billing',
+  ['invoice_amount'] = 'invoice amount',
+  ['no_players_near'] = 'no players nearby',
+  ['store_veh'] = 'press ~INPUT_CONTEXT~ to store the vehicle',
+  ['comp_earned'] = 'your company has earned ~g~$',
+  ['deposit_stock'] = 'deposit Stock',
+  ['take_stock'] = 'take Stock',
+  ['boss_actions'] = 'boss Actions',
+  ['quantity'] = 'quantity',
+  ['quantity_invalid'] = 'invalid Quantity',
+  ['inventory'] = 'inventory',
+  ['have_withdrawn'] = 'you have withdrawn x',
+  ['added'] = 'you added x',
+  
+  -- Depend to the company
+  ['brewery_client'] = 'Brewery',
+  ['transforming_in_progress'] = 'hops transforming in progress ... ',
+  ['chmel_taken'] = 'you are picking up hops',
+  ['press_traitement'] = 'press ~INPUT_CONTEXT~ to transform beer',
+  ['press_collect'] = 'press ~INPUT_CONTEXT~ to collect hops',
+  ['press_sell'] = 'press ~INPUT_CONTEXT~ to sell your products',
+  ['no_nealko_sale'] = 'you don\'t have or not enought non-alcoholic beer',
+  ['no_radegast_sale'] = 'you don\'t have or not enought beer',
+  ['not_enough_chmel'] = 'you don\'t have enought hops',
+  ['plzen'] = '~g~awesome, a Whiskey !~w~',
+  ['no_product_sale'] = 'you don\'t have enought products',
+  ['press_traitement_nealko'] = 'press ~INPUT_CONTEXT~ to transform your hops',
+  ['used_nealko'] = 'you drank non-alcoholic beer',
+  ['used_plzen'] = 'you drank Whiskey',
+}
